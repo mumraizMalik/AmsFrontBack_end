@@ -1,0 +1,41 @@
+.PageContainer {
+    position: absolute;
+    top:50px;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    text-align: start;
+    height: calc(100% - 50px);   
+}
+.ButtonRecord{
+    height: 30px;
+}
+.ButtonRecord button{
+    width: 200px;
+    
+}
+ .DataLoad{
+position: absolute;
+top: 72px;
+height: 27px;
+
+} 
+.HeaderBorder{
+    height: 50px;
+    display: flex;
+    margin-top: 20px;
+} 
+ .BoxBorder{
+    border: 1px solid;
+    display: flex;
+    height: 80%;
+}
+.Box{
+    
+    height: 20px;
+    border: 1px solid;
+}
+.BoxHeader{
+    height: 20px;
+    border: 1px solid;
+} 
